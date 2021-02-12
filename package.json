@@ -1,0 +1,9 @@
+{
+    "name": "taxi",
+    "scripts": {
+        "dev": "browser-sync start --server --files *.js"
+    },
+    "dependencies": {
+        "browser-sync": "^2.26.14"
+    }
+}
